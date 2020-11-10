@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-react",
+  "version": "1.0.0",
+  "description": "Alex Shafer's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexShafer/portfolio-react.git"
+  },
+  "author": "Alex Shafer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexShafer/portfolio-react/issues"
+  },
+  "homepage": "https://github.com/AlexShafer/portfolio-react#readme",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^4.5.3",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.0"
+  }
+}
